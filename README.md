@@ -1,5 +1,5 @@
 
-readme_final = """<div align="center">
+<div align="center">
 
 # 🧭 التنقل بين الشاشات في فلاتر
 

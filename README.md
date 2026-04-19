@@ -56,13 +56,5 @@ Navigator.push(MaterialPageRoute(...));
 Navigator.push(context, MaterialPageRoute(...));
 ```
 
-## 📝 الترخيص
-
-MIT License - Copyright (c) 2026 odai faez
-"""
-
-with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_final)
-
 print("✅ تم إنشاء الملف!")
 print("📁 المسار: /mnt/agents/output/README.md")

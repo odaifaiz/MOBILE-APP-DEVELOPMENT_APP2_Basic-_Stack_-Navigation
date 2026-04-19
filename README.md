@@ -13,9 +13,6 @@ readme_content = """<div align="center">
   <img src="https://img.shields.io/badge/RTL-مفعل-00C853?style=for-the-badge" alt="RTL" />
 </p>
 
-**مشروع تعليمي شامل يوضح مفهوم مكدس التنقل (Navigation Stack) في Flutter مع دعم كامل للغة العربية**
-
-[📖 شرح المفهوم](#-مفهوم-مكدس-التنقل) • [🚀 التثبيت](#-التثبيت) • [💻 الكود](#-هيكل-المشروع) • [📚 الأمثلة](#-أمثلة-الاستخدام)
 
 </div>
 
@@ -134,7 +131,7 @@ readme_content = """<div align="center">
 <div align="center">
 
 | الشاشة الرئيسية | شاشة التفاصيل  |
-                                                            | ![Home](screnshots/home.png) | ![Detail](screnshoots/details.png) | 
+                                                            | ![Home](scrennshots/home.png) | ![Detail](scrennshots/details.png) | 
 
 |
 </div>

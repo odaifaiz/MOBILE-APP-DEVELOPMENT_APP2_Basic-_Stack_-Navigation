@@ -12,7 +12,7 @@ readme_final = """<div align="center">
 
 | الشاشة الرئيسية | شاشة التفاصيل |
 |:---:|:---:|
-| <img src="scrennshots/home.png" width="200" /> | <img src="scrennshots/details.png" width="200" /> |
+| <img src="scrennshots/home.png" width="200" /> | <img src="scrennshots/detailes.png" width="200" /> |
 
 ## 🎯 مكدس التنقل (LIFO)
 

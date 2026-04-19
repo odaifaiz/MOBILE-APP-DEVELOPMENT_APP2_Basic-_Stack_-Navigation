@@ -151,7 +151,7 @@ readme_content = """<div align="center">
 
 | الشاشة الرئيسية | شاشة التفاصيل  |
 |:---:|:---:|:---:|
-| ![Home](screenshots/home.png) | ![Detail](screenshots/details.png) | 
+| ![Home](screnshots/home.png) | ![Detail](screnshots/details.png) | 
 | **HomeScreen** | **DetailScreen** |
 | اللون: Indigo | اللون: Teal | أيقونة: Layers |
 
